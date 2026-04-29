@@ -1,0 +1,114 @@
+[
+  { 
+    "id": "keyboard",
+    "name": "Keyboard Tester", 
+    "href": "/tests/keyboard", 
+    "icon": "keyboard", 
+    "desc": "Full-size interactive key detection with Windows and macOS layouts.",
+    "status": "Online"
+  },
+  { 
+    "id": "screen",
+    "name": "Dead Pixel Test", 
+    "href": "/tests/screen", 
+    "icon": "monitor", 
+    "desc": "Fullscreen color cycles to identify dead pixels and screen uniformity.",
+    "status": "Online"
+  },
+  { 
+    "id": "mic",
+    "name": "Microphone Test", 
+    "href": "/tests/mic", 
+    "icon": "mic", 
+    "desc": "Record your voice for 30 seconds and playback to verify clarity.",
+    "status": "Online"
+  },
+  { 
+    "id": "speaker",
+    "name": "Speaker & Stereo", 
+    "href": "/tests/speaker", 
+    "icon": "volume2", 
+    "desc": "Test Left/Right channel separation and audio balance quality.",
+    "status": "Online"
+  },
+  { 
+    "id": "camera",
+    "name": "Webcam Diagnostic", 
+    "href": "/tests/camera", 
+    "icon": "camera", 
+    "desc": "Check your camera resolution, focus, and sensor quality in real-time.",
+    "status": "Online"
+  },
+  { 
+    "id": "usb",
+    "name": "USB Monitor", 
+    "href": "/tests/usb", 
+    "icon": "usb", 
+    "desc": "Monitor active USB connections and detect hardware changes.",
+    "status": "Online"
+  },
+  { 
+    "id": "touchscreen",
+    "name": "Touchscreen Test", 
+    "href": "/tests/touchscreen", 
+    "icon": "fingerprint", 
+    "desc": "Multi-touch detection, drawing accuracy, and zone coverage test.",
+    "status": "Online"
+  },
+  { 
+    "id": "mouse",
+    "name": "Mouse & Touchpad", 
+    "href": "/tests/mouse", 
+    "icon": "mousepointer", 
+    "desc": "Test all buttons, scroll wheel, polling rate (Hz), and double-clicks.",
+    "status": "Online"
+  },
+  { 
+    "id": "gamepad",
+    "name": "Gamepad Tester", 
+    "href": "/tests/gamepad", 
+    "icon": "gamepad", 
+    "desc": "Check controller joysticks, trigger precision, and vibration.",
+    "status": "Online"
+  },
+  { 
+    "id": "battery",
+    "name": "Battery Status", 
+    "href": "/tests/battery", 
+    "icon": "battery", 
+    "desc": "Analyze real-time charging status and battery health percentage.",
+    "status": "Online"
+  },
+  { 
+    "id": "network",
+    "name": "Network & Speed", 
+    "href": "/tests/network", 
+    "icon": "wifi", 
+    "desc": "Fetch public IP, ISP details, connection type, and ping latency.",
+    "status": "Online"
+  },
+  { 
+    "id": "gpu",
+    "name": "GPU / WebGL Test", 
+    "href": "/tests/gpu", 
+    "icon": "cpu", 
+    "desc": "Detect your graphics card renderer and test WebGL FPS performance.",
+    "status": "Online"
+  },
+  { 
+    "id": "sensors",
+    "name": "Sensors & GPS", 
+    "href": "/tests/sensors", 
+    "icon": "compass", 
+    "desc": "Test GPS location accuracy, Gyroscope, and Device Accelerometer.",
+    "status": "Online"
+  },
+  { 
+    "id": "cpu",
+    "name": "CPU Benchmark", 
+    "href": "/tests/cpu", 
+    "icon": "microchip", 
+    "desc": "Detect hardware threads, RAM, and run a CPU performance test.",
+    "status": "Online"
+  }
+]

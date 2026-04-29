@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "win-11",
+    "name": "Windows 11 (64-bit)",
+    "description": "Official Windows 11 installation media and ISO images.",
+    "category": "OS",
+    "version": "23H2",
+    "link": "https://www.microsoft.com/software-download/windows11",
+    "stats": "Official Build"
+  },
+  {
+    "id": "win-10",
+    "name": "Windows 10 (64-bit)",
+    "description": "Official Windows 10 installation media and ISO images.",
+    "category": "OS",
+    "version": "22H2",
+    "link": "https://www.microsoft.com/software-download/windows10",
+    "stats": "Official Build"
+  },
+  {
+    "id": "ubuntu",
+    "name": "Ubuntu Desktop",
+    "description": "Most popular open-source Linux distribution.",
+    "category": "OS",
+    "version": "22.04 LTS",
+    "link": "https://ubuntu.com/download/desktop",
+    "stats": "Open Source"
+  },
+  {
+    "id": "linux-mint",
+    "name": "Linux Mint",
+    "description": "User-friendly Linux distribution based on Ubuntu/Debian.",
+    "category": "OS",
+    "version": "v21.3",
+    "link": "https://linuxmint.com/download.php",
+    "stats": "Popular"
+  },
+  {
+    "id": "fedora",
+    "name": "Fedora Workstation",
+    "description": "Polished, easy-to-use operating system for laptop and desktop computers.",
+    "category": "OS",
+    "version": "v39+",
+    "link": "https://fedoraproject.org/workstation/download/",
+    "stats": "Professional"
+  },
+  {
+    "id": "debian",
+    "name": "Debian Linux",
+    "description": "The universal operating system, stable and secure.",
+    "category": "OS",
+    "version": "12.5 Stable",
+    "link": "https://www.debian.org/distrib/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "arch-linux",
+    "name": "Arch Linux",
+    "description": "A lightweight and flexible Linux distribution for power users.",
+    "category": "OS",
+    "version": "Latest",
+    "link": "https://archlinux.org/download/",
+    "stats": "Advanced"
+  },
+  {
+    "id": "manjaro",
+    "name": "Manjaro Linux",
+    "description": "A professionally made, companionable operating system based on Arch.",
+    "category": "OS",
+    "version": "v23.1",
+    "link": "https://manjaro.org/products/",
+    "stats": "Arch-Based"
+  },
+  {
+    "id": "kali-linux",
+    "name": "Kali Linux",
+    "description": "The most advanced Penetration Testing Distribution.",
+    "category": "OS",
+    "version": "v2024.x",
+    "link": "https://www.kali.org/get-kali/",
+    "stats": "Security"
+  },
+  {
+    "id": "pop-os",
+    "name": "Pop!_OS",
+    "description": "An OS for STEM and creative professionals who use their computer as a tool to discover and create.",
+    "category": "OS",
+    "version": "v22.04 LTS",
+    "link": "https://system76.com/pop/download/",
+    "stats": "Productivity"
+  },
+  {
+    "id": "rocky-linux",
+    "name": "Rocky Linux",
+    "description": "Community enterprise operating system designed to be 100% bug-for-bug compatible with RHEL.",
+    "category": "OS",
+    "version": "v9.x",
+    "link": "https://rockylinux.org/download/",
+    "stats": "Enterprise"
+  },
+  {
+    "id": "almalinux",
+    "name": "AlmaLinux",
+    "description": "Open-source, community-owned enterprise Linux distribution.",
+    "category": "OS",
+    "version": "v9.x",
+    "link": "https://almalinux.org/get-almalinux/",
+    "stats": "Enterprise"
+  },
+  {
+    "id": "opensuse",
+    "name": "openSUSE Tumbleweed",
+    "description": "A stable, easy-to-use and multi-purpose Linux distribution.",
+    "category": "OS",
+    "version": "Rolling",
+    "link": "https://get.opensuse.org/",
+    "stats": "Reliable"
+  },
+  {
+    "id": "tails-linux",
+    "name": "Tails Linux",
+    "description": "A live system that aims to preserve your privacy and anonymity.",
+    "category": "OS",
+    "version": "v6.x",
+    "link": "https://tails.net/install/index.en.html",
+    "stats": "Privacy"
+  },
+  {
+    "id": "armoury-crate",
+    "name": "ASUS Armoury Crate",
+    "description": "Official RGB (Aura Sync) and hardware control for ASUS motherboards.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/",
+    "stats": "ASUS Official"
+  },
+  {
+    "id": "msi-center",
+    "name": "MSI Center (Mystic Light)",
+    "description": "Comprehensive MSI software for RGB and performance management.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.msi.com/Landing/MSI-Center",
+    "stats": "MSI Official"
+  },
+  {
+    "id": "gb-control",
+    "name": "Gigabyte Control Center",
+    "description": "Unified RGB and hardware control for Gigabyte/AORUS devices.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.gigabyte.com/Consumer/Software/GIGABYTE-Control-Center/global/",
+    "stats": "Gigabyte Official"
+  },
+  {
+    "id": "asrock-rgb",
+    "name": "ASRock Polychrome Sync",
+    "description": "Official RGB lighting control for ASRock motherboards.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.asrock.com/microsite/PolyChromeRGB/",
+    "stats": "ASRock Official"
+  },
+  {
+    "id": "corsair-icue",
+    "name": "Corsair iCUE",
+    "description": "Unified software for RGB control and performance monitoring for Corsair gear.",
+    "category": "RGB CONTROL",
+    "version": "v5.x",
+    "link": "https://www.corsair.com/icue",
+    "stats": "Verified"
+  },
+  {
+    "id": "razer-synapse",
+    "name": "Razer Synapse 3",
+    "description": "The unified hardware configuration tool for Razer devices.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.razer.com/synapse-3",
+    "stats": "Official"
+  },
+  {
+    "id": "nzxt-cam",
+    "name": "NZXT CAM",
+    "description": "Fast and efficient PC monitoring and RGB control software.",
+    "category": "RGB CONTROL",
+    "version": "v4.x",
+    "link": "https://nzxt.com/software/cam",
+    "stats": "Official"
+  },
+  {
+    "id": "logi-ghub",
+    "name": "Logitech G HUB",
+    "description": "Advanced gaming software for Logitech G gear.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://www.logitechg.com/en-us/innovation/g-hub.html",
+    "stats": "Official"
+  },
+  {
+    "id": "openrgb",
+    "name": "OpenRGB",
+    "description": "Open source universal RGB lighting control that supports many brands.",
+    "category": "RGB CONTROL",
+    "version": "v0.9+",
+    "link": "https://openrgb.org/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "signalrgb",
+    "name": "SignalRGB",
+    "description": "One app to control all your RGB devices across different brands.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://signalrgb.com/",
+    "stats": "Universal"
+  },
+  {
+    "id": "lian-li-lconnect",
+    "name": "Lian Li L-Connect 3",
+    "description": "Official software for Lian Li Uni Fans and RGB control.",
+    "category": "RGB CONTROL",
+    "version": "v2.x",
+    "link": "https://lian-li.com/l-connect3/",
+    "stats": "Official"
+  },
+  {
+    "id": "cm-masterplus",
+    "name": "Cooler Master MasterPlus+",
+    "description": "Official RGB and ecosystem control for Cooler Master products.",
+    "category": "RGB CONTROL",
+    "version": "Latest",
+    "link": "https://masterplus.coolermaster.com/",
+    "stats": "Official"
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "description": "The most popular, fast, and secure web browser.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.google.com/chrome/",
+    "stats": "Verified"
+  },
+  {
+    "id": "firefox",
+    "name": "Mozilla Firefox",
+    "description": "Privacy-focused browser from Mozilla.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.mozilla.org/firefox/new/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "edge",
+    "name": "Microsoft Edge",
+    "description": "Fast and secure browser powered by Chromium.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.microsoft.com/edge",
+    "stats": "Official"
+  },
+  {
+    "id": "opera",
+    "name": "Opera Browser",
+    "description": "Fast, safe, and secure browser with built-in VPN.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.opera.com/download",
+    "stats": "Verified"
+  },
+  {
+    "id": "opera-gx",
+    "name": "Opera GX",
+    "description": "The first browser made specifically for gamers.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.opera.com/gx",
+    "stats": "Gaming"
+  },
+  {
+    "id": "brave",
+    "name": "Brave Browser",
+    "description": "Browser that blocks ads and trackers by default.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://brave.com/download/",
+    "stats": "Verified"
+  },
+  {
+    "id": "vivaldi",
+    "name": "Vivaldi",
+    "description": "A browser that is powerful, personal, and private.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://vivaldi.com/download/",
+    "stats": "Chromium"
+  },
+  {
+    "id": "duckduckgo-br",
+    "name": "DuckDuckGo Browser",
+    "description": "Privacy, simplified. The browser that doesn't track you.",
+    "category": "BROWSER",
+    "version": "Beta",
+    "link": "https://duckduckgo.com/windows",
+    "stats": "Privacy"
+  },
+  {
+    "id": "tor-browser",
+    "name": "Tor Browser",
+    "description": "Protect your privacy and defend yourself against tracking.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://www.torproject.org/download/",
+    "stats": "Onion/Security"
+  },
+  {
+    "id": "chromium-raw",
+    "name": "Chromium (Pure)",
+    "description": "The open-source project behind Google Chrome.",
+    "category": "BROWSER",
+    "version": "Raw Build",
+    "link": "https://www.chromium.org/getting-involved/download-chromium/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "arc-browser",
+    "name": "Arc Browser",
+    "description": "The browser that helps you focus and stay organized.",
+    "category": "BROWSER",
+    "version": "Latest",
+    "link": "https://arc.net/download",
+    "stats": "New/Modern"
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "description": "Create bootable USB drives the easy way.",
+    "category": "MAINTENANCE",
+    "version": "v4.4+",
+    "link": "https://rufus.ie",
+    "stats": "Open Source"
+  },
+  {
+    "id": "hdd-guru",
+    "name": "HDD Low Level Format",
+    "description": "Format SATA, IDE, SAS, USB, Firewire hard drives.",
+    "category": "MAINTENANCE",
+    "version": "v4.40",
+    "link": "https://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/",
+    "stats": "Official Tool"
+  },
+  {
+    "id": "hd-sentinel",
+    "name": "Hard Disk Sentinel",
+    "description": "Monitor and analyze SSD and HDD health.",
+    "category": "MAINTENANCE",
+    "version": "v6.10+",
+    "link": "https://www.hdsentinel.com/download.php",
+    "stats": "Official"
+  },
+  {
+    "id": "crystal-disk",
+    "name": "CrystalDiskInfo",
+    "description": "A HDD/SSD utility software which supports S.M.A.R.T.",
+    "category": "MAINTENANCE",
+    "version": "v9.x",
+    "link": "https://crystalmark.info/en/software/crystaldiskinfo/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "cpu-z",
+    "name": "CPU-Z",
+    "description": "System profiling and monitoring for Windows.",
+    "category": "MAINTENANCE",
+    "version": "v2.09",
+    "link": "https://www.cpuid.com/softwares/cpu-z.html",
+    "stats": "Official"
+  },
+  {
+    "id": "gpu-z",
+    "name": "GPU-Z",
+    "description": "Video card information utility.",
+    "category": "MAINTENANCE",
+    "version": "v2.57",
+    "link": "https://www.techpowerup.com/gpuz/",
+    "stats": "Official"
+  },
+  {
+    "id": "hwmonitor",
+    "name": "HWMonitor",
+    "description": "Hardware monitoring program that reads PC sensors.",
+    "category": "MAINTENANCE",
+    "version": "Latest",
+    "link": "https://www.cpuid.com/softwares/hwmonitor.html",
+    "stats": "Official"
+  },
+  {
+    "id": "malwarebytes",
+    "name": "Malwarebytes",
+    "description": "Anti-malware software for home and business.",
+    "category": "MAINTENANCE",
+    "version": "v5.x",
+    "link": "https://www.malwarebytes.com/mwb-download",
+    "stats": "Verified"
+  },
+  {
+    "id": "autocad",
+    "name": "AutoCAD",
+    "description": "Design and shape the world around you.",
+    "category": "DESIGN & 3D",
+    "version": "2024",
+    "link": "https://www.autodesk.com/products/autocad/overview",
+    "stats": "Official"
+  },
+  {
+    "id": "sketchup",
+    "name": "SketchUp Pro",
+    "description": "3D modeling for professional architects.",
+    "category": "DESIGN & 3D",
+    "version": "Latest",
+    "link": "https://www.sketchup.com/download/all",
+    "stats": "Official"
+  },
+  {
+    "id": "enscape",
+    "name": "Enscape",
+    "description": "Real-time rendering and VR for architectural design.",
+    "category": "DESIGN & 3D",
+    "version": "v3.5+",
+    "link": "https://enscape3d.com/download/",
+    "stats": "Professional"
+  },
+  {
+    "id": "v-ray",
+    "name": "V-Ray",
+    "description": "Photorealistic rendering for 3ds Max, Maya, and more.",
+    "category": "DESIGN & 3D",
+    "version": "v6.x",
+    "link": "https://www.chaos.com/vray",
+    "stats": "Chaos Group"
+  },
+  {
+    "id": "lumion",
+    "name": "Lumion",
+    "description": "High-end architectural visualization and rendering.",
+    "category": "DESIGN & 3D",
+    "version": "Latest",
+    "link": "https://lumion.com/free-trial.html",
+    "stats": "Official"
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "description": "The free and open source 3D creation suite.",
+    "category": "DESIGN & 3D",
+    "version": "v4.0+",
+    "link": "https://www.blender.org/download/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "obs-studio",
+    "name": "OBS Studio",
+    "description": "Free and open source software for video recording and live streaming.",
+    "category": "DESIGN & 3D",
+    "version": "v30+",
+    "link": "https://obsproject.com/download",
+    "stats": "Open Source"
+  },
+  {
+    "id": "davinci-resolve",
+    "name": "DaVinci Resolve",
+    "description": "Professional video editing and color correction.",
+    "category": "DESIGN & 3D",
+    "version": "v18.6+",
+    "link": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "stats": "Official"
+  },
+  {
+    "id": "gimp",
+    "name": "GIMP",
+    "description": "The Free & Open Source Image Editor.",
+    "category": "DESIGN & 3D",
+    "version": "v2.10",
+    "link": "https://www.gimp.org/downloads/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "vs-code",
+    "name": "Visual Studio Code",
+    "description": "Code editing. Redefined.",
+    "category": "DEV APP",
+    "version": "1.87+",
+    "link": "https://code.visualstudio.com/download",
+    "stats": "160k+ Stars"
+  },
+  {
+    "id": "vs-community",
+    "name": "Visual Studio Community",
+    "description": "The most powerful IDE for C#, .NET, and C++ on Windows.",
+    "category": "DEV APP",
+    "version": "2022",
+    "link": "https://visualstudio.microsoft.com/vs/community/",
+    "stats": "Free/Official"
+  },
+  {
+    "id": "cursor-ai",
+    "name": "Cursor AI",
+    "description": "The AI-first code editor (Fork of VS Code).",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://cursor.com",
+    "stats": "Trending"
+  },
+  {
+    "id": "android-studio",
+    "name": "Android Studio",
+    "description": "Official IDE for Android app development.",
+    "category": "DEV APP",
+    "version": "Hedgehog+",
+    "link": "https://developer.android.com/studio",
+    "stats": "Google Official"
+  },
+  {
+    "id": "pycharm-comm",
+    "name": "PyCharm Community",
+    "description": "The best Python IDE for professional developers.",
+    "category": "DEV APP",
+    "version": "2023.x",
+    "link": "https://www.jetbrains.com/pycharm/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "intellij-comm",
+    "name": "IntelliJ IDEA Community",
+    "description": "The best free Java and Kotlin IDE.",
+    "category": "DEV APP",
+    "version": "2023.x",
+    "link": "https://www.jetbrains.com/idea/download/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "webstorm",
+    "name": "WebStorm",
+    "description": "The smartest JavaScript IDE for web development.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.jetbrains.com/webstorm/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "phpstorm",
+    "name": "PhpStorm",
+    "description": "Lightning-smart PHP IDE with deep code understanding.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.jetbrains.com/phpstorm/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "goland",
+    "name": "GoLand",
+    "description": "Capable and ergonomic IDE for Go development.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.jetbrains.com/go/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "clion",
+    "name": "CLion",
+    "description": "A powerful cross-platform IDE for C and C++.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.jetbrains.com/clion/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "rubymine",
+    "name": "RubyMine",
+    "description": "The most intelligent Ruby and Rails IDE.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.jetbrains.com/ruby/download/",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "jb-toolbox",
+    "name": "JetBrains Toolbox",
+    "description": "Manager for all JetBrains IDEs and tools.",
+    "category": "DEV APP",
+    "version": "Stable",
+    "link": "https://www.jetbrains.com/toolbox-app/",
+    "stats": "Essential"
+  },
+  {
+    "id": "vim",
+    "name": "Vim",
+    "description": "The ubiquitous text editor, highly configurable.",
+    "category": "DEV APP",
+    "version": "v9.x",
+    "link": "https://www.vim.org/download.php",
+    "stats": "Open Source"
+  },
+  {
+    "id": "neovim",
+    "name": "Neovim",
+    "description": "Hyperextensible Vim-based text editor.",
+    "category": "DEV APP",
+    "version": "v0.9+",
+    "link": "https://neovim.io/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "emacs",
+    "name": "GNU Emacs",
+    "description": "The extensible, customizable, self-documenting real-time display editor.",
+    "category": "DEV APP",
+    "version": "v29.x",
+    "link": "https://www.gnu.org/software/emacs/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "codeblocks",
+    "name": "Code::Blocks",
+    "description": "The open source, cross platform, free C, C++ and Fortran IDE.",
+    "category": "DEV APP",
+    "version": "v20.03",
+    "link": "http://www.codeblocks.org/downloads",
+    "stats": "Open Source"
+  },
+  {
+    "id": "dev-cpp",
+    "name": "Dev-C++",
+    "description": "A full-featured IDE for the C/C++ programming languages.",
+    "category": "DEV APP",
+    "version": "v6.3 (Embarcadero)",
+    "link": "https://www.dev-cpp.com/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "qt-creator",
+    "name": "Qt Creator",
+    "description": "Cross-platform IDE for C++, JavaScript and QML.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.qt.io/download",
+    "stats": "Professional"
+  },
+  {
+    "id": "spyder",
+    "name": "Spyder IDE",
+    "description": "Powerful scientific environment written in Python, for Python.",
+    "category": "DEV APP",
+    "version": "v5.x",
+    "link": "https://www.spyder-ide.org/",
+    "stats": "Scientific"
+  },
+  {
+    "id": "rstudio",
+    "name": "RStudio Desktop",
+    "description": "Integrated development environment for R and Python.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://posit.co/download/rstudio-desktop/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "arduino-ide",
+    "name": "Arduino IDE",
+    "description": "Open-source software to write code and upload it to your board.",
+    "category": "DEV APP",
+    "version": "v2.3+",
+    "link": "https://www.arduino.cc/en/software",
+    "stats": "Open Source"
+  },
+  {
+    "id": "geany",
+    "name": "Geany",
+    "description": "A fast and lightweight IDE using GTK+.",
+    "category": "DEV APP",
+    "version": "v2.0",
+    "link": "https://www.geany.org/download/releases/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "gedit",
+    "name": "gedit",
+    "description": "The official text editor of the GNOME desktop environment.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://wiki.gnome.org/Apps/Gedit",
+    "stats": "Open Source"
+  },
+  {
+    "id": "brackets",
+    "name": "Brackets",
+    "description": "A modern, open source text editor that understands web design.",
+    "category": "DEV APP",
+    "version": "v2.2",
+    "link": "https://brackets.io/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "python",
+    "name": "Python Language",
+    "description": "Official Python installer and interpreter.",
+    "category": "DEV APP",
+    "version": "v3.12.x",
+    "link": "https://www.python.org/downloads/",
+    "stats": "Verified"
+  },
+  {
+    "id": "node-js",
+    "name": "Node.js (LTS)",
+    "description": "JavaScript runtime built on Chrome's V8 engine.",
+    "category": "DEV APP",
+    "version": "v20.x",
+    "link": "https://nodejs.org/en/download/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "java-jdk",
+    "name": "Oracle Java JDK",
+    "description": "The official Java Development Kit from Oracle.",
+    "category": "DEV APP",
+    "version": "v21 LTS",
+    "link": "https://www.oracle.com/java/technologies/downloads/",
+    "stats": "Official"
+  },
+  {
+    "id": "openjdk",
+    "name": "OpenJDK",
+    "description": "Free and open-source implementation of the Java SE.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://openjdk.org/install/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "go-lang",
+    "name": "Go (Golang)",
+    "description": "Open source programming language that makes it easy to build simple, reliable software.",
+    "category": "DEV APP",
+    "version": "v1.22+",
+    "link": "https://go.dev/dl/",
+    "stats": "Google"
+  },
+  {
+    "id": "rust-lang",
+    "name": "Rust (rustup)",
+    "description": "A language empowering everyone to build reliable and efficient software.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://www.rust-lang.org/tools/install",
+    "stats": "Safety-First"
+  },
+  {
+    "id": "php-lang",
+    "name": "PHP Language",
+    "description": "Popular general-purpose scripting language for web development.",
+    "category": "DEV APP",
+    "version": "v8.3+",
+    "link": "https://www.php.net/downloads",
+    "stats": "Open Source"
+  },
+  {
+    "id": "ruby-lang",
+    "name": "Ruby Language",
+    "description": "Dynamic, open source programming language with a focus on simplicity.",
+    "category": "DEV APP",
+    "version": "v3.x",
+    "link": "https://www.ruby-lang.org/en/downloads/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "dotnet-sdk",
+    "name": ".NET SDK",
+    "description": "Free. Cross-platform. Open source. A developer platform for building apps.",
+    "category": "DEV APP",
+    "version": "v8.0",
+    "link": "https://dotnet.microsoft.com/download",
+    "stats": "Microsoft"
+  },
+  {
+    "id": "kotlin-lang",
+    "name": "Kotlin Language",
+    "description": "A modern programming language that makes developers happier.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://kotlinlang.org/docs/home.html",
+    "stats": "JetBrains"
+  },
+  {
+    "id": "swift-lang",
+    "name": "Swift Language",
+    "description": "General-purpose, multi-paradigm, compiled programming language by Apple.",
+    "category": "DEV APP",
+    "version": "v5.9+",
+    "link": "https://www.swift.org/download/",
+    "stats": "Apple"
+  },
+  {
+    "id": "dart-lang",
+    "name": "Dart Language",
+    "description": "Client-optimized language for fast apps on any platform.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://dart.dev/get-dart",
+    "stats": "Google"
+  },
+  {
+    "id": "zig-lang",
+    "name": "Zig Language",
+    "description": "General-purpose programming language and toolchain for maintaining robust software.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://ziglang.org/download/",
+    "stats": "Modern C"
+  },
+  {
+    "id": "flutter-sdk",
+    "name": "Flutter SDK",
+    "description": "Build apps for any screen with Google's UI toolkit.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://docs.flutter.dev/get-started/install",
+    "stats": "Google"
+  },
+  {
+    "id": "bun-runtime",
+    "name": "Bun Runtime",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://bun.sh",
+    "stats": "Ultra Fast"
+  },
+  {
+    "id": "deno-runtime",
+    "name": "Deno Runtime",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "category": "DEV APP",
+    "version": "Latest",
+    "link": "https://deno.com",
+    "stats": "Secure"
+  },
+  {
+    "id": "adobe-reader",
+    "name": "Adobe Acrobat Reader",
+    "description": "The most trusted free PDF viewer for viewing, printing, and sharing.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.adobe.com/acrobat/pdf-reader.html",
+    "stats": "Official"
+  },
+  {
+    "id": "foxit-reader",
+    "name": "Foxit PDF Reader",
+    "description": "Small, fast, and feature-rich PDF viewer.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.foxit.com/pdf-reader/",
+    "stats": "Verified"
+  },
+  {
+    "id": "sumatra-pdf",
+    "name": "Sumatra PDF",
+    "description": "Lightweight, free, open-source PDF, eBook (ePub, Mobi), XPS, DjVu, CHM reader.",
+    "category": "PDF TOOLS",
+    "version": "v3.5+",
+    "link": "https://www.sumatrapdfreader.org",
+    "stats": "Open Source"
+  },
+  {
+    "id": "okular",
+    "name": "Okular",
+    "description": "Universal document viewer developed by KDE.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://okular.kde.org",
+    "stats": "Open Source"
+  },
+  {
+    "id": "nitro-pdf",
+    "name": "Nitro PDF",
+    "description": "Powerful PDF editor and converter for business and personal use.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.gonitro.com",
+    "stats": "Official"
+  },
+  {
+    "id": "pdf-xchange",
+    "name": "PDF-XChange Editor",
+    "description": "The smallest, fastest, most feature-rich PDF editor/viewer available.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.pdf-xchange.com/product/pdf-xchange-editor",
+    "stats": "Highly Rated"
+  },
+  {
+    "id": "sejda-pdf",
+    "name": "Sejda PDF Desktop",
+    "description": "Pleasant and productive PDF software that you'll love to use.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.sejda.com/desktop",
+    "stats": "Verified"
+  },
+  {
+    "id": "xodo-pdf",
+    "name": "Xodo PDF",
+    "description": "The ultimate cross-platform PDF viewer and editor.",
+    "category": "PDF TOOLS",
+    "version": "Latest",
+    "link": "https://www.xodo.com",
+    "stats": "Verified"
+  },
+  {
+    "id": "pdf24",
+    "name": "PDF24 Creator",
+    "description": "Complete PDF solution to create, edit, and convert PDF files.",
+    "category": "PDF TOOLS",
+    "version": "v11.17",
+    "link": "https://www.pdf24.org/en/creator/",
+    "stats": "Free/Offline"
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom Desktop Client",
+    "description": "Reliable video conferencing and meetings.",
+    "category": "COMMUNICATION",
+    "version": "Stable",
+    "link": "https://zoom.us/download",
+    "stats": "Verified"
+  },
+  {
+    "id": "ms-teams",
+    "name": "Microsoft Teams",
+    "description": "Collaborative workspace for students and teachers.",
+    "category": "COMMUNICATION",
+    "version": "Free",
+    "link": "https://www.microsoft.com/en-us/microsoft-teams/download-app",
+    "stats": "Official"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "description": "Your place to talk with communities and friends.",
+    "category": "COMMUNICATION",
+    "version": "Stable",
+    "link": "https://discord.com/download",
+    "stats": "Official"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram Desktop",
+    "description": "Fast and secure desktop app, perfectly synced with your phone.",
+    "category": "COMMUNICATION",
+    "version": "Latest",
+    "link": "https://desktop.telegram.org/",
+    "stats": "Official"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "description": "The AI-powered platform for the future of work.",
+    "category": "COMMUNICATION",
+    "version": "Latest",
+    "link": "https://slack.com/downloads/windows",
+    "stats": "Official"
+  },
+  {
+    "id": "vlc",
+    "name": "VLC Media Player",
+    "description": "The most versatile and popular open-source media player.",
+    "category": "MEDIA PLAYER",
+    "version": "v3.0.20",
+    "link": "https://www.videolan.org/vlc/",
+    "stats": "Open Source"
+  },
+  {
+    "id": "potplayer",
+    "name": "PotPlayer",
+    "description": "Powerful multimedia player with advanced features.",
+    "category": "MEDIA PLAYER",
+    "version": "Latest",
+    "link": "https://potplayer.tv",
+    "stats": "Highly Rated"
+  },
+  {
+    "id": "mpc-hc",
+    "name": "MPC-HC",
+    "description": "Classic, lightweight Media Player Classic Home Cinema.",
+    "category": "MEDIA PLAYER",
+    "version": "v2.1.7",
+    "link": "https://github.com/clsid2/mpc-hc/releases",
+    "stats": "Open Source"
+  },
+  {
+    "id": "gom-player",
+    "name": "GOM Player",
+    "description": "Popular video player with built-in codec search.",
+    "category": "MEDIA PLAYER",
+    "version": "Latest",
+    "link": "https://www.gomlab.com/en/gomplayer",
+    "stats": "Official"
+  },
+  {
+    "id": "aimp",
+    "name": "AIMP",
+    "description": "High-quality audio player and converter.",
+    "category": "MEDIA PLAYER",
+    "version": "v5.30",
+    "link": "https://www.aimp.ru",
+    "stats": "Best for Audio"
+  },
+  {
+    "id": "winamp",
+    "name": "Winamp",
+    "description": "The legendary audio player for MP3 and more.",
+    "category": "MEDIA PLAYER",
+    "version": "Latest",
+    "link": "https://www.winamp.com",
+    "stats": "Legendary"
+  },
+  {
+    "id": "foobar2000",
+    "name": "foobar2000",
+    "description": "Advanced freeware audio player for power users.",
+    "category": "MEDIA PLAYER",
+    "version": "v2.1.2",
+    "link": "https://www.foobar2000.org/download",
+    "stats": "Pro Audio"
+  },
+  {
+    "id": "valorant",
+    "name": "VALORANT",
+    "description": "A character-based 5v5 tactical shooter from Riot Games.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://playvalorant.com",
+    "stats": "Official"
+  },
+  {
+    "id": "cs2",
+    "name": "Counter-Strike 2",
+    "description": "The next evolution of CS:GO on the Source 2 engine.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "stats": "Steam"
+  },
+  {
+    "id": "dota2",
+    "name": "Dota 2",
+    "description": "The world's most popular MOBA game.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://store.steampowered.com/app/570/Dota_2/",
+    "stats": "Steam"
+  },
+  {
+    "id": "league",
+    "name": "League of Legends",
+    "description": "Fast-paced, character-based 5v5 MOBA.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.leagueoflegends.com",
+    "stats": "Official"
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "description": "Build, explore, and survive in a blocky world.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.minecraft.net",
+    "stats": "Official"
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "description": "The ultimate virtual universe that lets you create and share experiences.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.roblox.com",
+    "stats": "Official"
+  },
+  {
+    "id": "genshin",
+    "name": "Genshin Impact",
+    "description": "Massive open-world RPG from HoYoverse.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://genshin.hoyoverse.com",
+    "stats": "Official"
+  },
+  {
+    "id": "apex",
+    "name": "Apex Legends",
+    "description": "Free-to-play Hero Shooter Battle Royale.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.ea.com/games/apex-legends",
+    "stats": "Official"
+  },
+  {
+    "id": "fortnite",
+    "name": "Fortnite",
+    "description": "Create, play, and battle with friends in Fortnite.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.fortnite.com",
+    "stats": "Epic Games"
+  },
+  {
+    "id": "warzone",
+    "name": "Call of Duty: Warzone",
+    "description": "Massive free-to-play combat arena from the world of Modern Warfare.",
+    "category": "GAMING",
+    "version": "PC",
+    "link": "https://www.callofduty.com/warzone",
+    "stats": "Official"
+  },
+  {
+    "id": "bluestacks",
+    "name": "BlueStacks",
+    "description": "The best Android emulator for playing mobile games on PC.",
+    "category": "GAMING",
+    "version": "v5 / v10",
+    "link": "https://www.bluestacks.com",
+    "stats": "Verified"
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "description": "The ultimate platform for playing games.",
+    "category": "GAMING",
+    "version": "Latest",
+    "link": "https://store.steampowered.com/about/",
+    "stats": "Official"
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games Launcher",
+    "description": "Access to Fortnite and many other great games.",
+    "category": "GAMING",
+    "version": "Latest",
+    "link": "https://store.epicgames.com/en-US/download",
+    "stats": "Official"
+  },
+  {
+    "id": "nv-gpu",
+    "name": "NVIDIA GeForce Drivers",
+    "description": "Official drivers for NVIDIA graphics cards.",
+    "category": "DRIVER",
+    "version": "Game Ready",
+    "link": "https://www.nvidia.com/Download/index.aspx",
+    "stats": "Verified Link"
+  },
+  {
+    "id": "amd-gpu",
+    "name": "AMD Radeon Software",
+    "description": "Adrenalin drivers for AMD Radeon graphics.",
+    "category": "DRIVER",
+    "version": "Adrenalin",
+    "link": "https://www.amd.com/en/support",
+    "stats": "Verified Link"
+  },
+  {
+    "id": "intel-drv",
+    "name": "Intel Support Assistant",
+    "description": "Auto-detect and update Intel drivers.",
+    "category": "DRIVER",
+    "version": "DSA",
+    "link": "https://www.intel.com/content/www/us/en/download-center/home.html",
+    "stats": "Verified Link"
+  }
+]
